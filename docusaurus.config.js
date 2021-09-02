@@ -10,7 +10,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/poi-circle.ico.png',
   organizationName: '0xS3GF4VLT', // Usually your GitHub org/user name.
-  projectName: 'poiyomi-site', // Usually your repo name.
+  projectName: 'poiyomi.github.io', // Usually your repo name.
   themeConfig: {
     colorMode: {
       defaultMode: 'dark',
