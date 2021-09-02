@@ -22,6 +22,7 @@
   --ifm-color-accent: #ff5a79;
   --ifm-footer-link-hover-color: var(--ifm-color-secondary-lighter);
   --ifm-link-hover-decoration: underline var(--ifm-color-accent);
+  --ifm-toc-border-color: var(--ifm-color-primary);
   --ifm-color-background: rgba(0, 0, 0, 0.1);
   --ifm-code-font-size: 95%;
 }
@@ -53,8 +54,8 @@ a:hover {
 }
 
 .hero {
-  border-top: 10px solid var(--ifm-color-primary);
-  border-bottom: 10px solid var(--ifm-color-primary);
+  border-top: 1px solid var(--ifm-color-primary);
+  border-bottom: 1px solid var(--ifm-color-primary);
 }
 
 .title-heart:before {
@@ -68,6 +69,6 @@ a:hover {
 
 .footer--dark {
   background-color: var(--ifm-hero-background-color);
-  border-top: 10px solid var(--ifm-color-primary);
-  border-bottom: 10px solid var(--ifm-color-primary);
+  border-top: 1px solid var(--ifm-color-primary);
+  border-bottom: 1px solid var(--ifm-color-primary);
 }
