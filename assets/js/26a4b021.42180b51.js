@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpoiyomi_site=self.webpackChunkpoiyomi_site||[]).push([[195],{9423:function(i){i.exports=JSON.parse('{"allTagsPath":"/poiyomi-site/blog/tags","slug":"/poiyomi-site/blog/tags/v-8-0","name":"v8.0","count":1,"permalink":"/poiyomi-site/blog/tags/v-8-0"}')}}]);

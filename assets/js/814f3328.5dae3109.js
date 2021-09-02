@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpoiyomi_site=self.webpackChunkpoiyomi_site||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Poiyomi 8.0 Released!","permalink":"/blog/poiyomi-8_0-released"}]}')}}]);

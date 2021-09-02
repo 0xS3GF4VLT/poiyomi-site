@@ -2,14 +2,14 @@
 <rss version="2.0">
     <channel>
         <title>Poiyomi Shader Blog</title>
-        <link>https://0xS3GF4VLT.github.io/blog</link>
+        <link>https://0xS3GF4VLT.github.io/poiyomi-site/blog</link>
         <description>Poiyomi Shader Blog</description>
         <lastBuildDate>Thu, 02 Sep 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Poiyomi 8.0 Released!]]></title>
-            <link>https://0xS3GF4VLT.github.io/blog/poiyomi-8_0-released</link>
+            <link>https://0xS3GF4VLT.github.io/poiyomi-site/blog/poiyomi-8_0-released</link>
             <guid>poiyomi-8_0-released</guid>
             <pubDate>Thu, 02 Sep 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[OMG! IT'S HERE! MODULARITY, CUSTOMIZABILITY! CREATE YOUR OWN MODULES AND SHARE THEM WITH OTHER USERS!]]></description>

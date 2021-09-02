@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpoiyomi_site=self.webpackChunkpoiyomi_site||[]).push([[713],{3457:function(s){s.exports=JSON.parse('{"/blog/tags/v-8-0":{"allTagsPath":"/blog/tags","slug":"/blog/tags/v-8-0","name":"v8.0","count":1,"permalink":"/blog/tags/v-8-0"}}')}}]);

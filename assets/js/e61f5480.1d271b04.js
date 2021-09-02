@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpoiyomi_site=self.webpackChunkpoiyomi_site||[]).push([[845],{8488:function(e){e.exports=JSON.parse('{"permalink":"/poiyomi-site/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
