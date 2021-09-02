@@ -1,4 +1,3 @@
-const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
@@ -13,6 +12,10 @@ module.exports = {
   organizationName: 'Poiyomi', // Usually your GitHub org/user name.
   projectName: 'poiyomi-site', // Usually your repo name.
   themeConfig: {
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: true,
+    },
     navbar: {
       title: 'Poiyomi Shader',
       logo: {
@@ -76,8 +79,7 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} Poiyomi, Inc. Built with Docusaurus.`,
     },
     prism: {
-      theme: lightCodeTheme,
-      darkTheme: darkCodeTheme,
+      theme: darkCodeTheme,
     },
   },
   presets: [

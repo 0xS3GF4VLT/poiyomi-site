@@ -40,7 +40,7 @@ const FeatureList: FeatureItem[] = [
     description: (
       <>
         The way the Poiyomi shader works would not be possible without the incredible work from <Link
-            className="text--primary"
+            className="text-link text--secondary"
             to="https://twitter.com/thryrallo">
             Thryrallo
           </Link> and Cibbi.
