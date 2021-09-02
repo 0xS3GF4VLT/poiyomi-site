@@ -18,7 +18,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Easy to Use',
-    image: '/img/poi-circle.png',
+    image: '/static/img/poi-circle.png',
     description: (
       <>
         Poiyomi Shader has been designed to be easy to get started with, but versatile enough for even seasoned 3D artists.
@@ -27,7 +27,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Modular',
-    image: '/img/poi-circle.png',
+    image: '/static/img/poi-circle.png',
     description: (
       <>
         With Poiyomi 8.0 the new modular system allows for you to truly customize it to your needs, and even contribute your own modules.
@@ -36,7 +36,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Powered by Thry Editor and Cibbi Modules',
-    image: '/img/poi-circle.png',
+    image: '/static/img/poi-circle.png',
     description: (
       <>
         The way the Poiyomi shader works would not be possible without the incredible work from <Link
