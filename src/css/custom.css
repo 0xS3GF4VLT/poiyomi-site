@@ -20,6 +20,7 @@
   --ifm-color-secondary-lighter: #4edcff;
   --ifm-color-secondary-lightest: #8ce8ff;
   --ifm-color-accent: #ff5a79;
+  --ifm-color-background: rgba(0, 0, 0, 0.1);
   --ifm-code-font-size: 95%;
 }
 
@@ -36,4 +37,21 @@ a {
 
 .text-link {
   border-bottom: 1px solid var(--ifm-color-accent);
+}
+
+html {
+  background-color: var(--ifm-color-background);
+}
+
+.hero {
+  border: 10px solid var(--ifm-color-primary);
+}
+
+.title-heart:before {
+  content: "♥";
+  position: relative;
+  top: -24px;
+  left: 74px;
+  font-size: 28px;
+  color: var(--ifm-color-accent);
 }
