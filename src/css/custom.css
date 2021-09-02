@@ -20,6 +20,8 @@
   --ifm-color-secondary-lighter: #4edcff;
   --ifm-color-secondary-lightest: #8ce8ff;
   --ifm-color-accent: #ff5a79;
+  --ifm-footer-link-hover-color: var(--ifm-color-secondary-lighter);
+  --ifm-link-hover-decoration: underline var(--ifm-color-accent);
   --ifm-color-background: rgba(0, 0, 0, 0.1);
   --ifm-code-font-size: 95%;
 }
@@ -35,12 +37,19 @@ a {
   color: var(--ifm-color-secondary)
 }
 
-.text-link {
-  border-bottom: 1px solid var(--ifm-color-accent);
-}
-
 html {
   background-color: var(--ifm-color-background);
+}
+
+a:hover {
+  color: var(--ifm-color-secondary-lighter);
+  text-decoration-color: var(--ifm-color-accent);
+  text-underline-offset: 3px;
+}
+
+.button--secondary:not(.button--outline):hover {
+  --ifm-button-background-color: var(--ifm-color-secondary-lighter);
+  --ifm-button-border-color: var(--ifm-color-secondary-lighter);
 }
 
 .hero {
