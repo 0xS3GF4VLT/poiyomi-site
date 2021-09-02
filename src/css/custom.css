@@ -44,7 +44,8 @@ html {
 }
 
 .hero {
-  border: 10px solid var(--ifm-color-primary);
+  border-top: 10px solid var(--ifm-color-primary);
+  border-bottom: 10px solid var(--ifm-color-primary);
 }
 
 .title-heart:before {
@@ -54,4 +55,10 @@ html {
   left: 74px;
   font-size: 28px;
   color: var(--ifm-color-accent);
+}
+
+.footer--dark {
+  background-color: var(--ifm-hero-background-color);
+  border-top: 10px solid var(--ifm-color-primary);
+  border-bottom: 10px solid var(--ifm-color-primary);
 }
