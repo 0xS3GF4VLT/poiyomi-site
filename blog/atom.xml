@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://0xS3GF4VLT.github.io/blog</id>
+    <id>https://poiyomi.github.io/blog</id>
     <title>Poiyomi Shader Blog</title>
     <updated>2021-09-02T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://0xS3GF4VLT.github.io/blog"/>
+    <link rel="alternate" href="https://poiyomi.github.io/blog"/>
     <subtitle>Poiyomi Shader Blog</subtitle>
-    <icon>https://0xS3GF4VLT.github.io/img/poi-circle.ico.png</icon>
+    <icon>https://poiyomi.github.io/img/poi-circle.ico.png</icon>
     <entry>
         <title type="html"><![CDATA[Poiyomi 8.0 Released!]]></title>
         <id>poiyomi-8_0-released</id>
-        <link href="https://0xS3GF4VLT.github.io/blog/poiyomi-8_0-released"/>
+        <link href="https://poiyomi.github.io/blog/poiyomi-8_0-released"/>
         <updated>2021-09-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[OMG! IT'S HERE! MODULARITY, CUSTOMIZABILITY! CREATE YOUR OWN MODULES AND SHARE THEM WITH OTHER USERS!]]></summary>
         <author>
