@@ -4,13 +4,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Poiyomi Shader',
   tagline: 'Creating a highly versatile shader for your Unity projects!',
-  url: 'https://poiyomi.github.io',
-  baseUrl: '/',
+  url: 'https://0xS3GF4VLT.github.io',
+  baseUrl: '/poiyomi-site',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/poi-circle.ico.png',
   organizationName: '0xS3GF4VLT', // Usually your GitHub org/user name.
-  projectName: 'poiyomi.github.io', // Usually your repo name.
+  projectName: 'poiyomi-site', // Usually your repo name.
+  trailingSlash: false,
   themeConfig: {
     colorMode: {
       defaultMode: 'dark',
